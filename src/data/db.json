@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nombre": "John",
+      "apellido": "Doe",
+      "avatar": "hhttps://www.blogdelfotografo.com/wp-content/uploads/2022/01/retrato-anillo-luz.webp",
+      "user": "john.doe",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "nombre": "Jane",
+      "apellido": "Smith",
+      "avatar": "https://st4.depositphotos.com/13768208/40924/i/450/depositphotos_409241302-stock-photo-positive-girl-with-hairbun-looking.jpg",
+      "user": "jane.smith",
+      "password": "456"
+    },
+    {
+      "id": 3,
+      "nombre": "Michael",
+      "apellido": "Johnson",
+      "avatar": "https://muhimu.es/wp-content/uploads/2017/04/FRENTE-NITIDA.jpg",
+      "user": "michael.johnson",
+      "password": "789"
+    }
+  ],
+  "pizzas": [
+    {
+      "id": 1,
+      "nombre": "Pizza Americana",
+      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/i…es/promo/55df5292-84fc-4f21-8062-103ae5efdeae.jpg",
+      "precio": 45400
+    },
+    {
+      "id": 2,
+      "nombre": "Pizza Hawaiana",
+      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/i…es/promo/a5a62299-1106-42b3-b1e7-3232f659498b.jpg",
+      "precio": 43900
+    },
+    {
+      "id": 3,
+      "nombre": "Pizza Pepperoni",
+      "imagen": "https://example.com/pizza-pepperoni.jpg",
+      "precio": 11.99
+    },
+    {
+      "id": 4,
+      "nombre": "Pizza Vegetariana",
+      "imagen": "https://example.com/pizza-vegetariana.jpg",
+      "precio": 9.99
+    },
+    {
+      "id": 5,
+      "nombre": "Pizza Cuatro Quesos",
+      "imagen": "https://example.com/pizza-cuatro-quesos.jpg",
+      "precio": 12.99
+    },
+    {
+      "id": 6,
+      "nombre": "Pizza Barbacoa",
+      "imagen": "https://example.com/pizza-barbacoa.jpg",
+      "precio": 11.99
+    },
+    {
+      "id": 7,
+      "nombre": "Pizza Mexicana",
+      "imagen": "https://example.com/pizza-mexicana.jpg",
+      "precio": 10.99
+    },
+    {
+      "id": 8,
+      "nombre": "Pizza Marinara",
+      "imagen": "https://example.com/pizza-marinara.jpg",
+      "precio": 9.99
+    },
+    {
+      "id": 9,
+      "nombre": "Pizza Carbonara",
+      "imagen": "https://example.com/pizza-carbonara.jpg",
+      "precio": 12.99
+    },
+    {
+      "id": 10,
+      "nombre": "Pizza Napolitana",
+      "imagen": "https://example.com/pizza-napolitana.jpg",
+      "precio": 10.99
+    }
+  ]
+}
