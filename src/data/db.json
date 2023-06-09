@@ -29,70 +29,70 @@
     {
       "id": 1,
       "nombre": "Pizza Americana",
-      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/i…es/promo/55df5292-84fc-4f21-8062-103ae5efdeae.jpg",
+      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/55df5292-84fc-4f21-8062-103ae5efdeae.jpg",
       "precio": 45400,
       "Descripción":"Maíz tierno y tocineta con un toque picantico de pepperoni."
     },
     {
       "id": 2,
       "nombre": "Pizza Hawaiana",
-      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/i…es/promo/a5a62299-1106-42b3-b1e7-3232f659498b.jpg",
+      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/a5a62299-1106-42b3-b1e7-3232f659498b.jpg",
       "precio": 43900,
       "Descripción":"Extraqueso, jamón y piña."
     },
     {
       "id": 3,
       "nombre": "Pizza Pepperoni",
-      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/i…es/promo/410285ea-34df-4863-8b45-2cca98ae9932.jpg",
+      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/410285ea-34df-4863-8b45-2cca98ae9932.jpg",
       "precio": 43900,
       "Descripción":"Doble pepperoni y extraqueso"
     },
     {
       "id": 4,
       "nombre": "Pizza Super Pollo",
-      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/i…es/promo/3b73f30e-a9de-4324-bed1-897db0d6fe8c.jpg",
+      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/3b73f30e-a9de-4324-bed1-897db0d6fe8c.jpg",
       "precio": 44900,
       "Descripción":"Tradicional mezcla de trocitos de pechuga de pollo champiñones frescos y extraqueso."
     },
     {
       "id": 5,
       "nombre": "Pizza 3 Estaciones",
-      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/i…es/promo/fa89be20-2647-4b5c-acb3-5da3c7ddc300.jpg",
+      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/fa89be20-2647-4b5c-acb3-5da3c7ddc300.jpg",
       "precio": 42000,
       "Descripción":"Nuestra versión especial de pollo y champiñones con chorizo."
     },
     {
       "id": 6,
       "nombre": "Pizza Americana",
-      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/i…es/promo/55df5292-84fc-4f21-8062-103ae5efdeae.jpg",
+      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/55df5292-84fc-4f21-8062-103ae5efdeae.jpg",
       "precio": 45000,
       "Descripción":"Maíz tierno y tocineta con un toque picantico de pepperoni."
     },
     {
       "id": 7,
       "nombre": "Pizza Colombina",
-      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/i…es/promo/9c277af3-bef3-4048-b3db-9796911f0642.jpg",
+      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/9c277af3-bef3-4048-b3db-9796911f0642.jpg",
       "precio": 42000,
       "Descripción":"Cebolla, maíz tierno, tocineta y chorizo."
     },
     {
       "id": 8,
       "nombre": "Pizza Vegetariana",
-      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/i…es/promo/3419d8ba-fffe-4c91-9717-414005714450.jpg",
+      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/3419d8ba-fffe-4c91-9717-414005714450.jpg",
       "precio": 44900,
       "Descripción":"Cebolla, pimentón, champiñón y tomate"
     },
     {
       "id": 9,
       "nombre": "Pizza Italiana",
-      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/i…es/promo/ad935b62-61a9-4d87-86ee-ec1888967cf6.jpg",
+      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/ad935b62-61a9-4d87-86ee-ec1888967cf6.jpg",
       "precio": 42900,
       "Descripción":"Una pizza al mejor estilo italiano: pepperoni, salami, cebolla y tomate."
     },
     {
       "id": 10,
       "nombre": "Pizza Tocineta y Maíz",
-      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/i…es/promo/2c9d01e9-5a96-481a-8b1f-a376546a61a9.jpg",
+      "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/2c9d01e9-5a96-481a-8b1f-a376546a61a9.jpg",
       "precio": 41900,
       "Descripción":"Queso mozarella, tocineta y Maíz."
     }
