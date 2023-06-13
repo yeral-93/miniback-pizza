@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "nombre": "John",
+      "name": "John",
       "apellido": "Doe",
       "avatar": "hhttps://www.blogdelfotografo.com/wp-content/uploads/2022/01/retrato-anillo-luz.webp",
       "user": "john.doe",
@@ -10,7 +10,7 @@
     },
     {
       "id": 2,
-      "nombre": "Jane",
+      "name": "Jane",
       "apellido": "Smith",
       "avatar": "https://st4.depositphotos.com/13768208/40924/i/450/depositphotos_409241302-stock-photo-positive-girl-with-hairbun-looking.jpg",
       "user": "jane.smith",
@@ -18,7 +18,7 @@
     },
     {
       "id": 3,
-      "nombre": "Michael",
+      "name": "Michael",
       "apellido": "Johnson",
       "avatar": "https://muhimu.es/wp-content/uploads/2017/04/FRENTE-NITIDA.jpg",
       "user": "michael.johnson",
@@ -31,70 +31,80 @@
       "nombre": "Pizza Americana",
       "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/55df5292-84fc-4f21-8062-103ae5efdeae.jpg",
       "precio": 45400,
-      "Descripción":"Maíz tierno y tocineta con un toque picantico de pepperoni."
+      "Descripción": "Maíz tierno y tocineta con un toque picantico de pepperoni."
     },
     {
       "id": 2,
       "nombre": "Pizza Hawaiana",
       "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/a5a62299-1106-42b3-b1e7-3232f659498b.jpg",
       "precio": 43900,
-      "Descripción":"Extraqueso, jamón y piña."
+      "Descripción": "Extraqueso, jamón y piña."
     },
     {
       "id": 3,
-      "nombre": "Pizza Pepperoni",
+      "nombre": "Pizza Peperoni",
       "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/410285ea-34df-4863-8b45-2cca98ae9932.jpg",
       "precio": 43900,
-      "Descripción":"Doble pepperoni y extraqueso"
+      "Descripción": "Doble pepperoni y extraqueso"
     },
     {
       "id": 4,
       "nombre": "Pizza Super Pollo",
       "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/3b73f30e-a9de-4324-bed1-897db0d6fe8c.jpg",
       "precio": 44900,
-      "Descripción":"Tradicional mezcla de trocitos de pechuga de pollo champiñones frescos y extraqueso."
+      "Descripción": "Tradicional mezcla de trocitos de pechuga de pollo champiñones frescos y extraqueso."
     },
     {
       "id": 5,
       "nombre": "Pizza 3 Estaciones",
       "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/fa89be20-2647-4b5c-acb3-5da3c7ddc300.jpg",
       "precio": 42000,
-      "Descripción":"Nuestra versión especial de pollo y champiñones con chorizo."
+      "Descripción": "Nuestra versión especial de pollo y champiñones con chorizo."
     },
     {
       "id": 6,
       "nombre": "Pizza Americana",
       "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/55df5292-84fc-4f21-8062-103ae5efdeae.jpg",
       "precio": 45000,
-      "Descripción":"Maíz tierno y tocineta con un toque picantico de pepperoni."
+      "Descripción": "Maíz tierno y tocineta con un toque picantico de pepperoni."
     },
     {
       "id": 7,
-      "nombre": "Pizza Colombina",
+      "nombre": "Pizza Colombiana",
       "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/9c277af3-bef3-4048-b3db-9796911f0642.jpg",
       "precio": 42000,
-      "Descripción":"Cebolla, maíz tierno, tocineta y chorizo."
+      "Descripción": "Cebolla, maíz tierno, tocineta y chorizo."
     },
     {
       "id": 8,
       "nombre": "Pizza Vegetariana",
       "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/3419d8ba-fffe-4c91-9717-414005714450.jpg",
       "precio": 44900,
-      "Descripción":"Cebolla, pimentón, champiñón y tomate"
+      "Descripción": "Cebolla, pimentón, champiñón y tomate"
     },
     {
       "id": 9,
       "nombre": "Pizza Italiana",
       "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/ad935b62-61a9-4d87-86ee-ec1888967cf6.jpg",
       "precio": 42900,
-      "Descripción":"Una pizza al mejor estilo italiano: pepperoni, salami, cebolla y tomate."
+      "Descripción": "Una pizza al mejor estilo italiano: pepperoni, salami, cebolla y tomate."
     },
     {
       "id": 10,
       "nombre": "Pizza Tocineta y Maíz",
       "imagen": "https://cache.dominos.com/wam/prod/market/CO/_es/images/promo/2c9d01e9-5a96-481a-8b1f-a376546a61a9.jpg",
       "precio": 41900,
-      "Descripción":"Queso mozarella, tocineta y Maíz."
+      "Descripción": "Queso mozarella, tocineta y Maíz."
+    }
+  ],
+  "Cash": [
+    {
+      "id": 1,
+      "name": "Ejemplo",
+      "cardNumber": "1234567890",
+      "expirationDate": "12/29",
+      "cvv": "123",
+      "direction": "Dirección de ejemplo"
     }
   ]
 }
